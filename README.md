@@ -45,7 +45,6 @@ Focused on solving real-world rural agriculture challenges
 📜 Projects under patent consideration (2 innovations)
 🌍 Participated in international-level academic exchange programs
 📰 Featured in newspapers for contributions to agriculture technology
-💪 World Record in endurance (Diamond Push-ups)
 🛠️ TECHNICAL SKILLS
 
 Programming: Python, C, C++, HTML/CSS
